@@ -1,3 +1,5 @@
 # Qt5_Advanced_1.3_Threads_InheritingQThread
 
-#SourceCode to be added soon
+#Under threads, inheriting QThread discussed and
+
+#SourceCode added 
